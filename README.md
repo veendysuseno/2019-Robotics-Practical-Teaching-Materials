@@ -406,22 +406,22 @@ This repository contains practical teaching materials for robotics, designed for
    - Install Python from the official [Python website](https://www.python.org/downloads/).
    - Install OpenCV using the following command:
 
-   ```bash
-   pip install opencv-python
+```bash
+pip install opencv-python
+```
 
-    Ensure all dependencies are correctly installed for face recognition applications.
+- Ensure all dependencies are correctly installed for face recognition applications.
 
-    ESP8266 Board Setup:
+3. ESP8266 Board Setup:
 
-        Add the ESP8266 board manager URL in the Arduino IDE:
-            Go to File > Preferences and paste the following URL in the "Additional Board Manager URLs" field:
+- Add the ESP8266 board manager URL in the Arduino IDE:
+  - Go to File > Preferences and paste the following URL in the "Additional Board Manager URLs" field:
 
-        bash
+```bash
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
 
-        http://arduino.esp8266.com/stable/package_esp8266com_index.json
-
-        Install the board and necessary libraries.
-   ```
+- Install the board and necessary libraries.
 
 ## Conclusion
 
@@ -433,4 +433,4 @@ Feel free to contribute to this repository by submitting issues or pull requests
 
 ## Contact
 
-For any questions or issues regarding this project, please contact veendyputra@gmail.com.
+For any questions or issues regarding this project, please contact [emailto:veendyputra@gmail.com](emailto:veendyputra@gmail.com).
